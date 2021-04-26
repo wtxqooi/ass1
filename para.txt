@@ -1,0 +1,1 @@
+{'emb_model': 'skip_gram', 'frame': 'FastText', 'n_input': 300, 'n_class': 2, 'n_hidden': 100, 'batch_size': 128, 'total_epoch': 20, 'learning_rate': 0.01, 'curr_file': 5, 'seq_max_len': 30, 'file_name': 'FastText_nps+webtext+training_Skip_Gram_300_6'}
